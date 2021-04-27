@@ -1,0 +1,8 @@
+const HOME_ROUTE = {
+  ROOT: 'HOME_ROOT',
+  LOGIN: 'LOGIN',
+  REGISTER: 'REGISTER',
+  PROMOTION: 'PROMOTION',
+};
+
+export {HOME_ROUTE};
